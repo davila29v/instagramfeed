@@ -1,0 +1,46 @@
+
+.contenedorPadre {
+background-color: rgb(199, 199, 199);
+}
+.font {
+font-family: 'Roboto', sans-serif;
+}
+.encabezado {
+background-color: white;
+height: 50px;
+}
+img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 100%;
+}
+.posts {
+background-color: white;
+width: 500px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 30px;
+margin-bottom: 30px;
+}
+.encabezadoFoto {
+height: 25px;
+padding: 10px 10px;
+background-color: white;
+}
+.photo {
+height: auto;
+}
+.fotoName {
+float: left;
+}
+.date {
+float: right;
+font-size: 15px;
+color: grey;
+}
+.pieFotofinal {
+background-color: white;
+font-size: small;
+padding: 10px 10px;
+}
